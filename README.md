@@ -3,6 +3,7 @@
 ### Table of content
 
 - [Guess game](#Guess-game)
+- [Position game](#Position-game)
 
 ## Guess game
 
@@ -21,3 +22,6 @@ When you are guessing the program will only let you pick a ingeter between 1 and
 At the end of the game you'll see the number of guesses that you made and you can replay the game.
 
 <img src = "https://github.com/PaulaB03/Python-Programs/blob/main/images/guess_game_2.png">
+
+
+## Position game
