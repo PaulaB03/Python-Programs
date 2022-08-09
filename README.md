@@ -25,3 +25,24 @@ At the end of the game you'll see the number of guesses that you made and you ca
 
 
 ## Position game
+
+A interactive program that allows you to modify a list in diferent ways.
+
+<img src = "https://github.com/PaulaB03/Python-Programs/blob/main/images/position1.png">
+
+ The first option allows to replace a value from a certain position.
+ 
+ <img src = "https://github.com/PaulaB03/Python-Programs/blob/main/images/position2.png">
+ 
+ The second option adds a new position at the end of the list
+ 
+ <img src = "https://github.com/PaulaB03/Python-Programs/blob/main/images/position4.png">
+ 
+ The third option removes a certain position.
+ 
+ <img src = "https://github.com/PaulaB03/Python-Programs/blob/main/images/position3.png">
+ 
+ The program only allows position to be integers limited by the length of the current list.
+ At any moment of the program the player can exit the program by following the coresponding instructions.
+ 
+ <img src = "https://github.com/PaulaB03/Python-Programs/blob/main/images/position5.png">
