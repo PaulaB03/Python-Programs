@@ -2,8 +2,25 @@
 
 ### Table of content
 
+- [Tic-Tac-Toe](#Tic-Tac-Toe)
 - [Guess game](#Guess-game)
 - [Position game](#Position-game)
+
+# Tic-Tac-Toe
+
+### Features
+
+- [X] 2 players
+- [X] Replay the game as many times as you want
+- [X] The board is displayed all the time
+- [X] The program keeps track of the the score
+
+### Screenshots
+
+<img src="https://github.com/PaulaB03/Tic-Tac-Toe/blob/main/images/tic_tac_toe1.png">
+<img src="https://github.com/PaulaB03/Tic-Tac-Toe/blob/main/images/tic_tac_toe2.png">
+<img src="https://github.com/PaulaB03/Tic-Tac-Toe/blob/main/images/tic_tac_toe3.png">
+<img src="https://github.com/PaulaB03/Tic-Tac-Toe/blob/main/images/tic_tac_toe4.png">
 
 ## Guess game
 
