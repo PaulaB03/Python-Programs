@@ -17,10 +17,10 @@
 
 ### Screenshots
 
-<img src="https://github.com/PaulaB03/Tic-Tac-Toe/blob/main/images/tic_tac_toe1.png">
-<img src="https://github.com/PaulaB03/Tic-Tac-Toe/blob/main/images/tic_tac_toe2.png">
-<img src="https://github.com/PaulaB03/Tic-Tac-Toe/blob/main/images/tic_tac_toe3.png">
-<img src="https://github.com/PaulaB03/Tic-Tac-Toe/blob/main/images/tic_tac_toe4.png">
+<img src="https://github.com/PaulaB03/Python-Programs/blob/main/images/tic_tac_toe1.png">
+<img src="https://github.com/PaulaB03/Python-Programs/blob/main/images/tic_tac_toe2.png">
+<img src="https://github.com/PaulaB03/Python-Programs/blob/main/images/tic_tac_toe3.png">
+<img src="https://github.com/PaulaB03/Python-Programs/blob/main/images/tic_tac_toe4.png">
 
 # Guess game
 
