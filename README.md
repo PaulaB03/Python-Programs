@@ -22,7 +22,7 @@
 <img src="https://github.com/PaulaB03/Tic-Tac-Toe/blob/main/images/tic_tac_toe3.png">
 <img src="https://github.com/PaulaB03/Tic-Tac-Toe/blob/main/images/tic_tac_toe4.png">
 
-## Guess game
+# Guess game
 
 This is a small game that let's the player guess a number between 1 and 100.
 If the guess is more than 10 away from my number, I'll tell you you're COLD
@@ -41,7 +41,7 @@ At the end of the game you'll see the number of guesses that you made and you ca
 <img src = "https://github.com/PaulaB03/Python-Programs/blob/main/images/guess_game_2.png">
 
 
-## Position game
+# Position game
 
 A interactive program that allows you to modify a list in diferent ways.
 
